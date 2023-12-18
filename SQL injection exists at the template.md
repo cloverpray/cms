@@ -2,6 +2,9 @@ Target is https://github.com/iteachyou-wjn/dreamer_cms
 
 version:4.1.3
 
+SQL injection exists at the template
+
+
 ![1695623061634](https://github.com/cloverpray/cms/assets/92020978/c25f1389-888e-4353-a847-4aa85a41a9ef)
 
 
